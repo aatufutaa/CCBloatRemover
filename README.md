@@ -4,8 +4,8 @@ Run Photoshop or any other Adobe program without the Creative Cloud bloatware ru
 ## What is Creative Cloud bloatware?
 Creative Cloud bloatware refers to the additional software and background processes that are installed alongside the primary Adobe Creative Cloud applications (like Photoshop, Illustrator, Premiere Pro, etc.). These additional components can consume system resources (CPU, memory, disk space) and potentially slow down the performance of the computer. This bloat will be running automatically on the background even when you are not using any of the Adobe programs.
 
-![screenshot](images/bloat.png)
 ![screenshot](images/bloat1.png)
+![screenshot](images/bloat.png)
 
 ## Instructions
 ### 1. Stop Creative Cloud from starting on startup
